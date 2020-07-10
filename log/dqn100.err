@@ -1,0 +1,5 @@
+usage: main.py [-h] [--episodes EPISODES] [--loadModel LOADMODEL]
+               [--start_episode START_EPISODE] [--saveDirectory SAVEDIRECTORY]
+               [--saveVideo SAVEVIDEO] [--model MODEL] [--env ENV]
+               [--prioritized]
+main.py: error: argument --episodes/-e: invalid int value: 'MsPacman-v0'
